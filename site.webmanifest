@@ -1,0 +1,9 @@
+{
+  "name": "ShopMax",
+  "short_name": "ShopMax",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#0b0f19",
+  "icons": [{"src":"assets/shopmax-icon.png","sizes":"192x192","type":"image/png"}]
+}
